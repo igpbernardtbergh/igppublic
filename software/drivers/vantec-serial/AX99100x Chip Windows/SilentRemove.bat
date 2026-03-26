@@ -1,1 +1,0 @@
-AX99100x_Uninst.exe -s               
